@@ -91,21 +91,4 @@ Under Activities, search for Startup activities. Add two new startup activities:
 
 Now restart your device with `sudo reboot` and the GUI should start up! 
 
-## Pictures
 
-HUD in action
-![HUD in action](https://i.imgur.com/tpscMLz.jpg)
-
-Close-up of driver's view of HUD
-![Close-up of driver's view of HUD](https://i.imgur.com/9UdMikN.jpg)
-
-Side view of monitor and mirror mounts
-![Side view of mounts](https://thingiverse-production-new.s3.amazonaws.com/assets/ca/d1/42/7c/10/IMG_20190316_120601.jpg)
-
-Close front view of HUD
-![Close front view of HUD](https://thingiverse-production-new.s3.amazonaws.com/assets/f6/e7/c7/c6/02/IMG_20190316_121405.jpg)
-
-## Thanks
-This project owes a lot to the following people who helped me:
-* [JWardell](https://teslaownersonline.com/members/jwardell.1513/) at the Tesla Owners Online forums
-* [Collin80](https://github.com/collin80) here at Github
